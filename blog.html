@@ -3,17 +3,16 @@ layout: default
 ---
 
 <div class="posts">
-  {% for post in paginator.posts %}
+  {% for post in site.posts %}
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} - {{ post.date | date: "%B %e, %Y" }}</a></h1>
 
       <div class="entry">
-        {{ post.content | truncatewords: 50 }}
+        {{ post.content | truncatewords: 25 }}
       </div>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
-  <h1><a href="{{ site.baseurl }}/blog/">More Posts</a></h1>
 </div>
