@@ -10075,7 +10075,7 @@ hr.light {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: linear-gradient(to bottom, #1431db 0%, rgba(205, 206, 207, 0.8) 100%), url("../img/plexus.gif");
+  background: #000000;
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
