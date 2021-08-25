@@ -235,7 +235,7 @@ hr.black {
 
 
 #particles-js {
-  position: fixed;
+  position: absolute;
   top: 0;
   right: 0;
   bottom: 0;
@@ -244,7 +244,7 @@ hr.black {
 }
 
 #overlay {
-  position: relative;
+  position: fixed;
   padding: 50px;
 }
 
