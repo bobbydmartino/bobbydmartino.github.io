@@ -37,7 +37,7 @@ $(function() {
           }
         },
         "size": {
-          "value": 1,
+          "value": 0,
           "random": true,
           "anim": {
             "enable": false,

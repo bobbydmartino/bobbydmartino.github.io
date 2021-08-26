@@ -479,6 +479,13 @@ mark,
   height: auto;
 }
 
+.img-lessfluid {
+  width: auto;
+  height: auto;
+  max-width: 125px; 
+  max-height: 300px;
+}
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
