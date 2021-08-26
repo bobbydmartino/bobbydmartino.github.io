@@ -9993,7 +9993,7 @@ html {
 hr.divider {
   max-width: 3.25rem;
   border-width: 0.2rem;
-  border-color: #1431db;
+  border-color: #ffffff;
 }
 
 hr.light {
@@ -10038,7 +10038,7 @@ hr.light {
   color: #1431db;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active {
-  color: #1431db !important;
+  color: #a8a8a8 !important;
 }
 @media (min-width: 992px) {
   #mainNav {
