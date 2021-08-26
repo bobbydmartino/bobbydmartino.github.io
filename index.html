@@ -104,7 +104,6 @@
       <div id="particles-js"></div>
       <div class="row overlay">
         <div class="col-lg-10 mx-auto">
-          
           <h1 class="text-uppercase">
             <img src="img/nn.png" 
                  class="img-lessfluid"
@@ -291,80 +290,112 @@
   <section class="min-padding" id="contact">
     <div class="container">
     
-      <div class="row">
-        <div class="col-lg-8 mx-auto text-center">
-          <h2 class="section-heading">
-          
-          <!-- Attempting to avoid spam by removing @ and the dot in my domain -->
-            Contact Robert</h2>
-          <hr class="divider black my-4" />
-          <p>If you have an interesting work opportunity, you can send Robert a message using the form below.</p>
-          
-          <!-- Really avoiding spam by sending emails to the spam box
-               Docs URL: https://formspree.io/ 
-               Also, Bootstrap forms: https://getbootstrap.com/docs/3.3/css/#forms -->
-	        <!--!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-							!!!!!!!     CHANGE THE FORMSPREE ENDPOINT TO YOUR OWN EMAIL IF YOU FORK THIS REPO. MUCH THANKS     !!!!!!!          
-							!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-					-->
-          <form action="https://formspree.io/f/mqkwgvna" method="POST" class="form-horizontal" role="form">
-            <!-- Need a name, reply to email, and a message -->
-            <div class="form-group">
-              <input type="text" name="name" placeholder="Your Name" class="form-control" required>
-            </div>
-            <div class="form-group">
-              <input type="email" name="email" placeholder="Your Email" class="form-control" required>
-            </div>
-            <div class="form-group">
-              <textarea name="message" placeholder="Your message" class="form-control" required></textarea>
-            </div>
-            <!-- Hidden elements here -->
-            <input type="hidden" name="_subject" value="New email from Contact Me Form!" class="form-control">
-            <input type="hidden" name="_next" value="thanks.html" />
-            <!-- Submit button -->
-            <div class="form-group">
-              <input type="submit" value="Email Robert" class="btn btn-primary btn-xl">
-            </div>
+      <!--Section: Contact v.2-->
+<section class="mb-4">
+
+  <!--Section heading-->
+  <h2 class="h1-responsive font-weight-bold text-center my-4">Contact Robert</h2>
+  <!--Section description-->
+  <p class="text-center w-responsive mx-auto mb-5">If you have an interesting work opportunity, you can send Robert a message using the form below.</p>
+
+  <div class="row">
+
+      <!--Grid column-->
+      <div class="col-md-9 mb-md-0 mb-5">
+          <form id="contact-form" name="contact-form" action="mail.php" method="POST">
+
+              <!--Grid row-->
+              <div class="row">
+
+                  <!--Grid column-->
+                  <div class="col-md-6">
+                      <div class="md-form mb-0">
+                          <input type="text" id="name" name="name" class="form-control">
+                          <label for="name" class="">Your name</label>
+                      </div>
+                  </div>
+                  <!--Grid column-->
+
+                  <!--Grid column-->
+                  <div class="col-md-6">
+                      <div class="md-form mb-0">
+                          <input type="text" id="email" name="email" class="form-control">
+                          <label for="email" class="">Your email</label>
+                      </div>
+                  </div>
+                  <!--Grid column-->
+
+              </div>
+              <!--Grid row-->
+
+              <!--Grid row-->
+              <div class="row">
+                  <div class="col-md-12">
+                      <div class="md-form mb-0">
+                          <input type="text" id="subject" name="subject" class="form-control">
+                          <label for="subject" class="">Subject</label>
+                      </div>
+                  </div>
+              </div>
+              <!--Grid row-->
+
+              <!--Grid row-->
+              <div class="row">
+
+                  <!--Grid column-->
+                  <div class="col-md-12">
+
+                      <div class="md-form">
+                          <textarea type="text" id="message" name="message" rows="2" class="form-control md-textarea"></textarea>
+                          <label for="message">Your message</label>
+                      </div>
+
+                  </div>
+              </div>
+              <!--Grid row-->
+
           </form>
-        </div>
+
+          <div class="text-center text-md-left">
+              <a class="btn btn-primary" onclick="document.getElementById('contact-form').submit();">Send</a>
+          </div>
+          <div class="status"></div>
       </div>
-      
-      <div class="row">
-        <div class="col-lg-12 text-center">
-          <p>You can also find his personal email, LinkedIn and GitHub below.</p>
-        </div>
+      <!--Grid column-->
+
+      <!--Grid column-->
+      <div class="col-md-3 text-center">
+          <ul class="list-unstyled mb-0">
+              <li><div class="col-4 col-sm-4 col-lg-2 offset-lg-3 text-center">
+                <a href="img/resume.pdf">
+                  <i class="fa fa-envelope fa-3x sr-icons"></i>
+                </a>
+                <a href="img/resume.pdf">
+                  <p></p>
+                </a>
+              </div>
+              </li>
+              <br />
+              <li><div class="col-4 col-sm-4 col-lg-2 offset-lg-3 text-center">
+                <a href="https://www.linkedin.com/in/bobbymartino">
+                  <i class="fa fa-linkedin-square fa-3x sr-icons"></i>
+                </a>
+                <p><a href="https://www.linkedin.com/in/bobbymartino" class="text-blue"></a></p>
+              </div>
+              </li>
+              <br />
+              <li><div class="col-4 col-sm-4 col-lg-2 offset-lg-3 text-center">
+                <a href="https://github.com/bobbydmartino">
+                  <i class="fa fa-github-square fa-3x sr-icons"></i>
+                </a>
+                <p><a href="https://github.com/bobbydmartino" class="text-blue"></a></p>
+              </div>
+              </li>
+          </ul>
       </div>
-      
-      <!-- Email, LinkedIn, and GitHub links -->
-      <div class="row">
-      
-			  <!-- Removed email link, because spam bots just figure it out and I get hit with 10s of thousands of
-              requests a month so... not doing that. If you can read this, just open up my resume ;P      -->
-        <div class="col-4 col-sm-4 col-lg-2 offset-lg-3 text-center">
-				  <a href="img/resume.pdf">
-						<i class="fa fa-envelope fa-4x sr-icons"></i>
-					</a>
-					<a href="img/resume.pdf">
-						<p>Email - <span class="text-blue text-italic font-weight-bold">see resume</span></p>
-					</a>
-        </div>
-        
-        <div class="col-4 col-sm-4 col-lg-2 text-center">
-          <a href="https://www.linkedin.com/in/bobbymartino">
-            <i class="fa fa-linkedin-square fa-4x sr-icons"></i>
-          </a>
-          <p><a href="https://www.linkedin.com/in/bobbymartino" class="text-blue">LinkedIn</a></p>
-        </div>
-        
-        <div class="col-4 col-sm-4 col-lg-2 text-center">
-          <a href="https://github.com/bobbydmartino">
-            <i class="fa fa-github-square fa-4x sr-icons"></i>
-          </a>
-          <p><a href="https://github.com/bobbydmartino" class="text-blue">GitHub</a></p>
-        </div>
-      </div>
-    </div>
-  </section>
+      <!--Grid column-->
+
+  </div>
 
   <!--  THIS IS THE FOOTER - displays a copyright notice and
         that Bootstrap powers this web page.
