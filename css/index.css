@@ -21,6 +21,11 @@
   font-size: 100%;
 }
 
+.text-tiny{
+  font-size: 40%;
+  color: #fff;
+}
+
 .text-italic {
   font-style: italic;
 }
