@@ -1,0 +1,629 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Live Edge Epoxy River Coffee Table",
+      "date": "August 2021",
+      "description": "This table represents the fusion of craftsmanship and precision engineering, designed and executed to produce a seamless blend of natural aesthetics and precise craftsmanship. Crafted from walnut slabs, the table features a riverine design filled with blue-tinted epoxy, evoking the fluidity of watercourses. \n                                The unique construction process involved creating the table top in two separate pieces, carefully pouring the epoxy inside a mold, planing each walnut slab, and reuniting them seamlessly. The legs of the table introduce a contemporary X-pattern, echoing the structural design found in the beams of the room in which it resides. This intentional nod to the room's architecture not only enhances the table's visual appeal but also establishes a harmonious connection to its surroundings.\n                                The legs are fabricated from maple, providing both stability and a complementary visual contrast to the rich tones of the walnut. This technical approach to construction, coupled with the artistic incorporation of epoxy, transforms the table into a functional work of art.\n                                As if bridging the artistic themes between projects, the X-pattern on the sides of this table mirrors the design of my television stand. Crafted from leftover pine sourced from the walls of the room, the television stand's resourceful construction is echoed in the epoxy river table. The symbiotic relationship between these two pieces exemplifies not only a commitment to craftsmanship but also a cohesive design language that ties the room together in a harmonious blend of aesthetics and functionality.",
+      "client": "Personal Project",
+      "category": "Furniture",
+      "images": [
+        "assets/img/portfolio/A/EpoxyRiverTable/Epoxy1.jpg",
+        "assets/img/portfolio/A/EpoxyRiverTable/Epoxy2.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Adirondack Chair with Footrest",
+      "date": "March 2020",
+      "description": "A big step in my woodworking journey was building an Adirondack chair and accompanying leg rest in a high school woodshop class under the guidance of Mr. Joel Scism. These pieces now reside alongside the epoxy river table and TV stand in the same room, forming a cohesive theme.\n                                Utilizing the facilities of the school's woodshop, I employed premade templates to trace outlines onto pine boards. The bandsaw was used to precisely cut out each component, ensuring a uniform and accurate execution of the chair and leg rest. The belt sander and spindle sander helped to refine the pieces down to the pencil lines. The chair was then assembled with screws and bolts.\n                                As a finishing touch, each piece received a coating of spar urethane, enhancing durability and providing protection against the elements.\n                                The completion of this project held a special significance, as it coincided with the last day ever of high school for me before the onset of the COVID pandemic. The technical precision of these pieces reflects not only a dedication to woodworking craftsmanship but also serves as a tangible reminder of the valuable skills nurtured within the walls of the high school woodshop. Special thanks to Mr. Joel Scism for his guidance and support throughout this endeavor.",
+      "client": "High School Woodshop Project",
+      "category": "Furniture",
+      "images": [
+        "assets/img/portfolio/A/ADKChair/ADKChair1.jpg",
+        "assets/img/portfolio/A/ADKChair/ADKChair2.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Television Stand",
+      "date": "June 2020",
+      "description": "Unveiling a piece born of resourcefulness and design ingenuity, my television stand is a testament to repurposing and creative woodworking. Constructed entirely from leftover pine sourced from the very walls of the room it now resides in, this stand harmonizes seamlessly with its surroundings, creating a unique and cohesive aesthetic.\n                                The standout feature of this piece lies in its sides, where an X-pattern design not only enhances the stand's structural integrity but also adds contemporary flair. The X-pattern echoes the structural design found in the beams of the room. The carefully calculated angles of the X-pattern bring a dynamic visual element, transforming the functional item into a focal point of the room.\n                                The X-pattern on the television stand also resonates with the design of my epoxy river table. Crafted from walnut slabs and adorned with a captivating blue-tinted epoxy river, the table's sides also utilize the same X-pattern, creating a shared design theme that unifies these two pieces within the context of the room's architecture.\n                                This television stand is not just a functional piece but a celebration of resourcefulness, craftsmanship, and the art of giving purpose to reclaimed materials.",
+      "client": "Personal Project",
+      "category": "Furniture",
+      "images": [
+        "assets/img/portfolio/A/TvStand/TVStand1.jpg",
+        "assets/img/portfolio/A/TvStand/TVStand2.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "3D Printed Remote Controlled Life Size R2D2",
+      "date": "September 2022-Present",
+      "description": "YouTube Short: Table Overview",
+      "client": "Personal Project",
+      "category": "Real Life Replica",
+      "images": [
+        "assets/img/portfolio/A/R2D2/CoverPhoto.jpg",
+        "assets/img/portfolio/A/R2D2/Portfolio.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Machined Luke Skywalker's Lightsaber",
+      "date": "June 2023",
+      "description": "I embarked on a journey to a galaxy far, far away with the realization of a childhood dream: a meticulously handcrafted, all-metal replica of Luke Skywalker's iconic green lightsaber from Return of the Jedi (1983). The impetus for this project was a lifelong passion for Star Wars, which instilled in me a desire to create a lightsaber that transcends mere toy replicas.\n                                The opportunity to bring this vision to life arose during a machining class at the Capital Region BOCES facility near the Albany Airport, facilitated by the generous guidance of Mr. Kody Skeals. His willingness to extend access to the metal lathes and milling machines outside of regular class hours, coupled with invaluable mentorship, transformed this project into a remarkable learning experience.\n                                The odyssey began with a Solidworks design, crafting a blueprint and ensuring screen-accurate dimensions. A solid block of 6061 aircraft aluminum, measuring 2 inches in diameter and 13 inches in length, served as the canvas for the foundation of the lightsaber hilt. The precision achieved in machining was elevated further through the use of CNC milling machines and a CNC lathe for the highly detailed parts of the project, providing an unprecedented level of detail.\n                                Returning to the familiar confines of my woodshop, the metal hilt was primed and painted to replicate the authentic appearance of Luke Skywalker's green lightsaber. To bring the weapon to life, a polycarbonate tube, diffuser foam, and LED strips were carefully integrated. A portable charger provided the power, culminating in a lightsaber blade that could be threaded into the hilt, complete with a 3D printed tip for authenticity. A camera case with foam protection for storing the hilt, and a 3D printed shell for safe storage of the blade completed the project.\n                                This was one of the most rewarding endeavors I've undertaken. A heartfelt and special thanks extends to Mr. Kody Skeals for his exceptional guidance and support throughout this endeavor. His generosity in allowing extra access to the BOCES facility and sharing invaluable tips and insights for precision machining made this project not only possible but an extraordinary and unforgettable experience.",
+      "client": "Personal Project",
+      "category": "Real Life Replica",
+      "images": [
+        "assets/img/portfolio/A/LukeMetal/14.jpg",
+        "assets/img/portfolio/A/LukeMetal/1.jpg",
+        "assets/img/portfolio/A/LukeMetal/2.jpg",
+        "assets/img/portfolio/A/LukeMetal/3.jpg",
+        "assets/img/portfolio/A/LukeMetal/4.jpg",
+        "assets/img/portfolio/A/LukeMetal/5.jpg",
+        "assets/img/portfolio/A/LukeMetal/6.jpg",
+        "assets/img/portfolio/A/LukeMetal/7.jpg",
+        "assets/img/portfolio/A/LukeMetal/8.jpg",
+        "assets/img/portfolio/A/LukeMetal/9.jpg",
+        "assets/img/portfolio/A/LukeMetal/10.jpg",
+        "assets/img/portfolio/A/LukeMetal/11.jpg",
+        "assets/img/portfolio/A/LukeMetal/12.jpg",
+        "assets/img/portfolio/A/LukeMetal/13.jpg",
+        "assets/img/portfolio/A/LukeMetal/14.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Veteran's Flag Display Case",
+      "date": "December 2023",
+      "description": "Description",
+      "client": "Bob Martino",
+      "category": "Decor, Storage Solutions",
+      "images": [
+        "assets/img/portfolio/A/VeteransFlag/Grandpa Flag1.jpg",
+        "assets/img/portfolio/A/VeteransFlag/Grandpa Flag2.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Epoxy & Wood Steelers Side Table",
+      "date": "May 2024",
+      "description": "The Epoxy & Wood Steelers Side Table is a unique, high-quality piece designed to showcase both craftsmanship and creativity. This table, unmatched in its quality and detail, serves as a perfect centerpiece for any Steelers fan's man cave.\n                                The creation of this table began with a detailed design in SolidWorks, where the entire Steelers logo was carefully modeled. This digital model ensured precise dimensions and proportions for the final product.\n                                Using the SolidWorks design, I created a silicone mold to cast the stars of the logo in epoxy. Each component was carefully tinted with the proper colors to ensure an accurate and vibrant representation of the Steelers logo.\n                                The table top was crafted from deep pour epoxy, providing a smooth and durable surface. The epoxy not only enhances the visual appeal of the table but also ensures its longevity and resistance to wear.\n                                The legs of the table were constructed from sapele, a beautiful and sturdy hardwood, and finished with a coat of Danish oil. To add an extra touch of personalization and team spirit, I laser engraved a variety of Steelers-related emblems onto the legs. This engraving process added intricate details that further elevate the table's aesthetic appeal.\n                                Once all the components were ready, the table was assembled with precision. The combination of epoxy and sapele, along with the detailed engravings, resulted in a truly unique piece of furniture.\n                                The Epoxy & Wood Steelers Side Table is not just a functional piece of furniture; it's a statement piece. Its unmatched quality and intricate design make it a standout addition to any Steelers fan's collection. Whether used as a centerpiece in a man cave or as a conversation starter in a living room, this table embodies both craftsmanship and team pride. Front view 1 Front view 2 Left side view 1 Left side view 2 Right side view 1 Right side view 2 Solidworks CAD file of entire table Solidworks CAD file of table top Solidworks CAD file of table legs 1: Using the CAD file, I designed and 3D printed a negative of the star 2: I taped the top of the mold to prevent overflow 3: Then I poured 2 part silicone into the cavity to create a mold for epoxy 4: I left the silicone to cure for four days 5: I inserted the silicone mold into a shell so it could retain its shape 6: I mixed two part epoxy and tinted it red, pouring it into the mold. Repeated for blue and yellow stars 7: Using a circle router jig, I created a mold out of particle board for the outer ring of the logo 8: I used sheathing tape and silicone to prevent the epoxy from leaking or sticking to the mold 9: I then poured epoxy tinted gray into the mold and left it for four days 10: I removed the ring from the mold and cleaned it up 11: Ran the ring and stars through the drum sander to flatten to 1.5 inches thick 12: I then layed out the stars and letters using laser-cut spacers 13: Practice layout of all the components 14: I secured all the components in the mold using the same sheathing tape and silicone to prevent leaks 15: The mold is now ready for the white epoxy backpour 16: I poured a base layer 1/4 inch thick to secure all compenents. Left to dry overnight 17: I did the final pour of white epoxy and left it for four days 18: I flattened the entire table top on the drum sander. I then sanded up to 400 grit 19: Placed the table top on the mold to prepare for epoxy coating 20: I poured table top epoxy over the whole top to give a protective coating and to bring out the colors 21: Using Glowforge software, I created designs to laser onto the table legs 22: I tested the designs on plywood strips before using it on the real wood 23: I then built the legs according to the CAD design 24: I laser engraved each piece based on the practice templates 25: I used Sapele wood for this and finished it with Danish oil 26: And there it is! All done 360 Degree View of Table",
+      "client": "Personal Project",
+      "category": "Furniture",
+      "images": [
+        "assets/img/portfolio/A/SteelersSideTable/1.jpg",
+        "assets/img/portfolio/A/SteelersSideTable/2.jpg",
+        "assets/img/portfolio/A/SteelersSideTable/3.jpg",
+        "assets/img/portfolio/A/SteelersSideTable/4.jpg",
+        "assets/img/portfolio/A/SteelersSideTable/5.jpg",
+        "assets/img/portfolio/A/SteelersSideTable/6.jpg",
+        "assets/img/portfolio/A/SteelersSideTable/Process0.PNG",
+        "assets/img/portfolio/A/SteelersSideTable/Process0,3.PNG",
+        "assets/img/portfolio/A/SteelersSideTable/Process0.7.PNG",
+        "assets/img/portfolio/A/SteelersSideTable/Process1.jpg",
+        "assets/img/portfolio/A/SteelersSideTable/Process2.jpg",
+        "assets/img/portfolio/A/SteelersSideTable/Process3.jpg",
+        "assets/img/portfolio/A/SteelersSideTable/Process4.jpg",
+        "assets/img/portfolio/A/SteelersSideTable/Process5.jpg",
+        "assets/img/portfolio/A/SteelersSideTable/Process6.jpg",
+        "assets/img/portfolio/A/SteelersSideTable/Process7.jpg",
+        "assets/img/portfolio/A/SteelersSideTable/Process8.jpg",
+        "assets/img/portfolio/A/SteelersSideTable/Process9.jpg",
+        "assets/img/portfolio/A/SteelersSideTable/Process10.jpg",
+        "assets/img/portfolio/A/SteelersSideTable/Process11.jpg",
+        "assets/img/portfolio/A/SteelersSideTable/Process12.jpg",
+        "assets/img/portfolio/A/SteelersSideTable/Process13.jpg",
+        "assets/img/portfolio/A/SteelersSideTable/Process14.jpg",
+        "assets/img/portfolio/A/SteelersSideTable/Process15.jpg",
+        "assets/img/portfolio/A/SteelersSideTable/Process16.jpg",
+        "assets/img/portfolio/A/SteelersSideTable/Process17.jpg",
+        "assets/img/portfolio/A/SteelersSideTable/Process18.jpg",
+        "assets/img/portfolio/A/SteelersSideTable/Process19.jpg",
+        "assets/img/portfolio/A/SteelersSideTable/Process20.jpg",
+        "assets/img/portfolio/A/SteelersSideTable/Process21.jpg",
+        "assets/img/portfolio/A/SteelersSideTable/Process22.jpg",
+        "assets/img/portfolio/A/SteelersSideTable/Process23.jpg",
+        "assets/img/portfolio/A/SteelersSideTable/Process24.jpg",
+        "assets/img/portfolio/A/SteelersSideTable/Process25.jpg",
+        "assets/img/portfolio/A/SteelersSideTable/Process26.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Wooden American Flags",
+      "date": "February 2021-Present",
+      "description": "In early 2021, I began to craft wooden American flags, drawing inspiration from online tutorials and reference photos. My aim was to bring a personal touch to each flag, combining elements from existing designs with a unique flair. Since the inception of this project, my process has evolved and improved, resulting in distinctive and high-quality flags that resonate with those seeking a patriotic touch for their homes.\n                                The process begins with premium pine strips which I sand to a smooth finish. To infuse a rustic look, every strip is carefully burned with a torch. The union, constructed separately from a wider panel of premium pine, undergoes the same burning process. Staining follows, with red stain for the red stripes, blue stain for the union, and leaving the natural pine for the white stripes.\n                                Assembling the 13 stripes and the union requires finesse, utilizing glue and a pneumatic nail gun for secure adhesion. The addition of vertical slats on the back ensures alignment and contributes to the overall sturdiness, a refinement made over time to enhance the flag's durability and flatness.\n                                One unique aspect that sets my flags apart is the personalized touch. Laser engraving the name of the person or family, my signature, and the date on the back of the union establishes a connection between the flag and its owner. The final touch involves the stars, where a distinctive approach sets my flags apart. Using a stencil that precisely matches the union's size, I affix 3D printed stars into each spot, creating a visual and tactile accent. The intricate design of the stars, reminiscent of military insignia, adds a unique dimension that is unparalleled in the wooden flag market.",
+      "client": "I sell these to many",
+      "category": "Decor",
+      "images": [
+        "assets/img/portfolio/A/WoodAmericanFlags/1.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Twin Mahogany Side Tables",
+      "date": "July 2022",
+      "description": "Undertaking a commission from my sister-in-law's aunt, I constructed two identical side tables. The project began with a reference photo provided by the client, which I translated into a scaled blueprint using digital tools.\n                                To bring the design to life, I printed out templates of both the tabletop and intricate leg geometry, piecing together multiple sheets of paper to ensure proportional accuracy. With the blueprints in hand, I traced the designs onto a panel glue-up of rich mahogany boards.\n                                Employing the bandsaw, I cut the boards just outside the traced lines, preparing them for the shaping that followed. The intricate geometry of the legs posed both a challenge and a source of reward. Navigating the delicate curves required precision at every step, pushing the boundaries of my woodworking skills. The bandsaw proved indispensable in creating the initial forms, while the combination of the belt and spindle sanders allowed me to sneak up to the pencil line with precision and accuracy.\n                                The glue-up process, particularly the joining of the three legs to the tabletop, demanded a sophisticated clamping approach to achieve a seamless and stable connection. I was able to leave my mark by laser engraving my signature on the bottom of the tables.\n                                The final touch involved the application of Danish oil, enhancing the natural beauty of the mahogany and providing a durable and lustrous finish. This project proved true the idea of taking a concept on the internet, and transforming it into reality, based only on images. Twin mahogany tables outside Table residing in the client's home Second table residing in the client's home Reference photo from the internet that the client provided. I made templates based on this one image Lasering my signature underneath to Leave my mark on the piece The three legs were constructed identically from the same template. The top was made from its own template Very complex clamping procedure to assemble the legs and top The shape of the table top resembles a guitar pick No mechanical fasteners were used in this project Three legs means there will be no wobble A very unique design for a side table The tables were finished with Danish oil The tables drying outside on a sunny day",
+      "client": "Mary Ann Fortune",
+      "category": "Furniture",
+      "images": [
+        "assets/img/portfolio/A/MaryAnnTable/1.jpg",
+        "assets/img/portfolio/A/MaryAnnTable/2.jpg",
+        "assets/img/portfolio/A/MaryAnnTable/3.jpg",
+        "assets/img/portfolio/A/MaryAnnTable/4.jpg",
+        "assets/img/portfolio/A/MaryAnnTable/5.jpg",
+        "assets/img/portfolio/A/MaryAnnTable/7.jpg",
+        "assets/img/portfolio/A/MaryAnnTable/8.jpg",
+        "assets/img/portfolio/A/MaryAnnTable/9.jpg",
+        "assets/img/portfolio/A/MaryAnnTable/10.jpg",
+        "assets/img/portfolio/A/MaryAnnTable/11.jpg",
+        "assets/img/portfolio/A/MaryAnnTable/12.jpg",
+        "assets/img/portfolio/A/MaryAnnTable/13.jpg",
+        "assets/img/portfolio/A/MaryAnnTable/14.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Mahogany End Table",
+      "date": "July 2022",
+      "description": "Description",
+      "client": "Eileen Martino",
+      "category": "Furniture",
+      "images": [
+        "assets/img/portfolio/A/MomSideTable/Complete1.jpg",
+        "assets/img/portfolio/A/MomSideTable/Complete2.jpg",
+        "assets/img/portfolio/A/MomSideTable/Complete3.jpg",
+        "assets/img/portfolio/A/MomSideTable/Complete4.jpg",
+        "assets/img/portfolio/A/MomSideTable/CADFILE.PNG",
+        "assets/img/portfolio/A/MomSideTable/InProgress1.jpg"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Endgrain Cutting Boards",
+      "date": "December 2021-Present",
+      "description": "Description Walnut and Maple Scrapwood Endgrain Cheeseboard July 2021",
+      "client": "I sell these to many",
+      "category": "Food Preparation",
+      "images": [
+        "assets/img/portfolio/A/EndgrainCuttingBoards/Endgrain1.jpg",
+        "assets/img/portfolio/A/EndgrainCuttingBoards/Endgrain2.jpg",
+        "assets/img/portfolio/A/EndgrainCuttingBoards/Scrapwood1.jpg",
+        "assets/img/portfolio/A/EndgrainCuttingBoards/Scrapwood2.jpg"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Laser Engraved Epoxy Sports Wall Plaque",
+      "date": "June 2022",
+      "description": "The foundation of this project was a 2 by 4 foot particle board back. To frame this piece, I introduced a border of rich cherry wood, setting the stage for the main attraction—a trio of live edge slabs. These slabs, harvested and patiently dried, became the focal point of the plaque. Two maple slabs represented my beloved Pittsburgh Steelers and Penguins, while a cherry slab took center stage for the Boston Red Sox.\n                                I utilized the precision of a laser engraver to emboss the essence of my three favorite teams. Each slab became a visual timeline, adorned with the team name, logo, and a display of championship years crowned by the league's ultimate trophy. A personalized touch manifested as I engraved the name and number of my favorite player beneath each team.\n                                The three slabs found their place side by side within the cherry wood border. The next step was a Caribbean water-tinted epoxy, encapsulating and embracing the slabs, creating a pleasing visual centerpiece. Boiled linseed oil became the finishing touch, adding a timeless luster to the entire piece. Lastly, I mounted this on my wall above my desk, allowing it to be viewed and observed by all.",
+      "client": "Personal Project",
+      "category": "Decor",
+      "images": [
+        "assets/img/portfolio/A/LaserWallPlaque/Plaque 1.jpg"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Office Desk, Drawer, and Shelving Unit",
+      "date": "December 2020",
+      "description": "With this project, I set out to create a custom office desk, drawer, and shelving unit for my cousin. Designing a piece that would span wall to wall and floor to ceiling required careful consideration and planning.\n                                Beginning with precise measurements of the room, I sketched a design that incorporated functional elements and aesthetic appeal. The challenge of determining the number and height of shelves on each side of the window, along with the design intricacies of the drawers flanking the desk, became a rewarding puzzle to solve.\n                                Translating the design into reality involved creating an organized parts list, detailing the dimensions of each unique piece required for construction. Calculating the necessary plywood sheets, I used a combination of a circular saw edge guide and a table saw to accurately cut the components to size. Sanding each board to a smooth finish, I then applied iron-on maple edge banding to conceal the plywood layers, providing a polished, natural wood appearance.\n                                Assembling the pieces required precision to ensure 90-degree corners and level shelves. Once the components were united, the entire unit received a carefully chosen paint finish. Adding another layer of complexity, the installation of drawer slides became a crucial step. Ensuring parallel alignment from the design phase through assembly, I incorporated slides for all four drawers and the cabinet carcass. This step guaranteed smooth opening and closing functionality for the drawers. This project still stands the test of time to this day, being used for many purposes.",
+      "client": "Matt & Lexi Rucinski",
+      "category": "Built-in Plywood Structures, Storage Solutions",
+      "images": [
+        "assets/img/portfolio/A/OfficeShelving/Office Desk 1.jpg",
+        "assets/img/portfolio/A/OfficeShelving/Office Desk 2.jpg",
+        "assets/img/portfolio/A/OfficeShelving/Nursery.jpg",
+        "assets/img/portfolio/A/OfficeShelving/Preparing.jpg"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Preschool Cubby Units",
+      "date": "August 2022",
+      "description": "Tasked by the principal of St. Mary's Catholic School of Waterford, I undertook the creation of 11 cubby units for their preschool students. Collaborating on size, specifications, and material considerations, we aimed to optimize space and materials, ensuring a practical and durable solution for the young students.\n                                The project kicked off with careful planning, determining the location and overall dimensions of each cubby unit. Creating a detailed parts list, I specified the unique components, their dimensions, and quantities, paving the way to calculate the necessary plywood sheets. After procuring the materials, using a track saw to break down the plywood into manageable sizes before fine-tuning each piece on the table saw.\n                                Transporting an entire minivan full of plywood to the school, my dad and I transformed the exterior of the school into a bustling workspace, staining each board with precision. The assembly process became a meticulous yet efficient routine, employing an assembly line approach to ensure consistency across all 11 cubby units. Wood screws brought each cubby to life, identical in size and structure. Once assembled, we maneuvered the cubbies around the school halls, connecting them to strengthen the overall structure.\n                                The final touch involved adding hooks to each cubby, providing a practical solution for the students to hang their belongings. The assembly line nature of this project, building a substantial number of cubbies, was a testament to efficiency and precision.",
+      "client": "St. Mary's Catholic School of Waterford",
+      "category": "Built-in Plywood Structures, Storage Solutions",
+      "images": [
+        "assets/img/portfolio/A/Cubbies/Cubby 1.jpg",
+        "assets/img/portfolio/A/Cubbies/Cubby 2.jpg",
+        "assets/img/portfolio/A/Cubbies/InProgress.jpg",
+        "assets/img/portfolio/A/Cubbies/InProgress2.jpg",
+        "assets/img/portfolio/A/Cubbies/PartiallyDone2.jpg",
+        "assets/img/portfolio/A/Cubbies/PartiallyDone.jpg",
+        "assets/img/portfolio/A/Cubbies/Staining.jpg",
+        "assets/img/portfolio/A/Cubbies/Staining2.jpg",
+        "assets/img/portfolio/A/Cubbies/Staining3.jpg",
+        "assets/img/portfolio/A/Cubbies/Staining4.jpg"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Classroom Shelving Units",
+      "date": "August 2022",
+      "description": "In conjunction with the cubby project at St. Mary's Catholic School of Waterford, I was also commissioned to craft shelving units for the classroom adjacent to the cubbies. Collaborating closely with the teacher, we measured the available space, discussed specific needs, and envisioned the desired outcome for the shelves.\n                                Employing a similar approach to the cubby project, I translated ideas into a sketch and developed a comprehensive parts list to determine material requirements. This considerate planning allowed for an efficient use of plywood.\n                                The assembly process mirrored the cubby project's assembly line nature, maintaining consistency in design and structure. The completed shelving units seamlessly fit into the already existing structure within the classroom. This approach not only maximized organization and storage but also created a cohesive and uniform aesthetic with the cubby units outside.",
+      "client": "St. Mary's Catholic School of Waterford",
+      "category": "Built-in Plywood Structures, Storage Solutions",
+      "images": [
+        "assets/img/portfolio/A/ClassroomShelving/ClassroomShelving1.jpg",
+        "assets/img/portfolio/A/ClassroomShelving/ClassroomShelving2.jpg",
+        "assets/img/portfolio/A/ClassroomShelving/ClassroomShelving3.jpg",
+        "assets/img/portfolio/A/ClassroomShelving/ClassroomShelving4.jpg"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Plywood Storage Rack",
+      "date": "January 2024",
+      "description": "Description",
+      "client": "Personal Project",
+      "category": "Storage Solutions",
+      "images": [
+        "assets/img/portfolio/A/PlywoodStorageRack/Assembled1.jpg",
+        "assets/img/portfolio/A/PlywoodStorageRack/Assembled2.jpg",
+        "assets/img/portfolio/A/PlywoodStorageRack/Assembled3.jpg",
+        "assets/img/portfolio/A/PlywoodStorageRack/CADFILE.PNG",
+        "assets/img/portfolio/A/PlywoodStorageRack/Decorated1.jpg",
+        "assets/img/portfolio/A/PlywoodStorageRack/Decorated2.jpg"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "All Metal Saruman's Staff from LOTR",
+      "date": "July 2023",
+      "description": "Immersed in the mesmerizing world of the extended Lord of the Rings trilogy, the character Saruman and his iconic staff left an indelible mark on my creative spirit. Inspired by Christopher Lee's portrayal, and spurred on by the urging of my sister, I decided to embark on the ambitious journey of bringing Saruman's staff to life.\n                                The research phase began with a deep dive into dimensions, reference photos, and YouTube tutorials showcasing various builds. While many opted for foam or plastic, I set my sights on authenticity, choosing to fashion the entire staff from aluminum.\n                                Armed with online images, I used Solidworks to carefully trace the forked shape, transforming the collected data into a screen-accurate model. This digital blueprint became a guide as I visualized each part of the staff, ensuring accuracy in every detail. With the design and assembly finalized, I exported the fork templates as .dxf files and used a laser engraver to cut them out in acrylic.\n                                Turning to eighth-inch aluminum sheet metal, I traced the acrylic templates and cut out the pieces using a metal bandsaw. A metal flush trim bit in my router table brought the intricate details to life, with occasional challenges met and conquered. Sanding and filing followed, refining the metal pieces to eliminate sharp edges and corners.\n                                The only non-metal component was a 3D printed divider, placed within an aluminum tube to evenly space the eight forks. Each fork found its place under the guidance of the divider, with glue ensuring accuracy and alignment. Primed and painted in a gloss black hue reminiscent of the cinematic masterpiece, the staff began to take its final form.\n                                The crowning glory came in the form of an LED sphere, a radiant orb nestled amidst the forks. This three-inch diameter sphere, changeable in color via a remote control, brought a dynamic luminosity to the staff. This project is proof of concept that an image from the internet can be used to create real-life objects, and also proved my ability to go from design in Solidworks, to metal - a first for me.",
+      "client": "Personal Project",
+      "category": "Real-Life Replica",
+      "images": [
+        "assets/img/portfolio/A/Saruman/Saruman1.jpg",
+        "assets/img/portfolio/A/Saruman/Saruman2.jpeg"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Custom Designed & 3D Printed BMW Logo",
+      "date": "September 2023",
+      "description": "Captivated by the iconic BMW logo, I embarked on a project to bring this symbol of automotive excellence to life. The vision was to design and construct a giant version of the BMW logo. \n                                To create this oversized emblem, I delved into the realm of 3D modeling. Disappointed with the available free models online, I took it upon myself to craft an intricate and faithful representation of the BMW logo. Starting with an image found on the internet, I imported it into a Solidworks sketch, carefully tracing every curve and detail to ensure accuracy.\n                                The logo, with its distinct silver outline, blue and white center panels, and black insert part, became individual components in my Solidworks assembly. This digital representation allowed me to visualize the entire model before the 3D printing process, ensuring a seamless fit when the parts came together.\n                                The challenge arose in size—the logo was intended to be over 14 inches in diameter, surpassing the capacity of my 3D printer build volume. Employing Autodesk Meshmixer, I sliced the files into manageable sections that could be seamlessly glued back together after printing.\n                                With filaments of PLA in the exact colors needed, the 3D printer brought each part to life. This eliminated the need for post-print painting, ensuring an authentic representation. Post-printing, a bit of sanding ensured a perfect fit for all components, which were then glued together.",
+      "client": "Personal Project",
+      "category": "Real-Life Replica",
+      "images": [
+        "assets/img/portfolio/A/BMW/BMW1.jpg"
+      ]
+    },
+    {
+      "id": 19,
+      "title": "3D Printed Topographic USA Map",
+      "date": "May 2022",
+      "description": "This project began when I stumbled upon a gem on Thingiverse.com — a topographic 3D model of the USA map. Intrigued by the prospect of crafting a unique representation of the mainland US, I embarked on the 3D printing.\n                                Utilizing blue, white, green, and yellow filaments, I brought each state to life layer by layer. The beauty of the design lay in the strategic use of colors, ensuring that no two adjacent states shared the same hue. After a careful sanding and filing process, the states seamlessly interlocked.\n                                For the canvas, an eighth-inch particle board served as the ideal backer. After a dry fit, I traced the state outlines on the board and took the project outside the conventional mapping boundaries. Armed with painter's tape, I masked off the land sections, leaving the ocean exposed for a coat of blue spray paint.\n                                With the ocean complete, the 3D-printed states found their permanent home on the backer board, glued in place to recreate the topography of the mainland USA. A final touch was added with a printed compass.\n                                Special thanks are due to Thingiverse user DerSchweizermaker for crafting these intricate 3D models that allowed me to turn a digital concept into a tangible, wall-mounted topographic tapestry.",
+      "client": "Personal Project",
+      "category": "Decor",
+      "images": [
+        "assets/img/portfolio/A/TopographicUSA/States1.jpg"
+      ]
+    },
+    {
+      "id": 20,
+      "title": "3D Printed Backyard Golf Course Tee Markers",
+      "date": "June 2022",
+      "description": "Transforming a backyard into the appropriately named Fairways at Farley, literally a true miniature golf course, my cousin embarked on a journey to infuse the spirit of golf into my dad’s family home. Established in 2014, this 18-hole course, adorned with real bunkers, carefully defined fairways and rough, is a homage to the love of the game.\n                                Tasked with elevating the course's navigational experience, my cousin sought my assistance in creating tee box markers for the 9 tee boxes. With each tee box serving multiple holes, the challenge lay in providing clear guidance for golfers navigating the intersecting and shared spaces.\n                                I utilized Autodesk Inventor to craft the tee box markers. The aesthetic aimed for subtlety—small enough not to disrupt the course's charm yet bold enough to catch the eye. The backdrop featured embossed letters, ensuring visibility and readability.\n                                Printing all nine markers using a 3D printer, I spray-painted the entire part in a neutral gray hue. I then utilized a paintbrush dipped in vibrant exterior paint, adding color to each letter corresponding to the pin's color on that specific hole. A UV protective seal ensured the markers would withstand the elements.\n                                Mounted on sturdy metal stakes, these tee box markers seamlessly integrated into the landscape, offering golfers essential information—hole number, par, and the destination green. As players stand at each tee box, they are greeted by markers which enhance the course's playability. These markers also represent the dedication and passion that went into crafting the Fairways at Farley—an 18-hole oasis that stands as a testament to the enduring love for golf and family ties.",
+      "client": "Matt Rucinski",
+      "category": "Custom Made",
+      "images": [
+        "assets/img/portfolio/A/TeeMarkers/1.jpg",
+        "assets/img/portfolio/A/TeeMarkers/2.jpg",
+        "assets/img/portfolio/A/TeeMarkers/3.jpg",
+        "assets/img/portfolio/A/TeeMarkers/4.jpg",
+        "assets/img/portfolio/A/TeeMarkers/5.jpg",
+        "assets/img/portfolio/A/TeeMarkers/6.jpg",
+        "assets/img/portfolio/A/TeeMarkers/CoverPhoto.jpg"
+      ]
+    },
+    {
+      "id": 21,
+      "title": "3D Printed Bowling Pin",
+      "date": "January 2021",
+      "description": "Description",
+      "client": "Personal Project",
+      "category": "Decor",
+      "images": [
+        "assets/img/portfolio/A/BowlingPin/Bowling1.jpg",
+        "assets/img/portfolio/A/BowlingPin/Bowling2.jpg"
+      ]
+    },
+    {
+      "id": 22,
+      "title": "3D Printed Four Player Chess Set",
+      "date": "August 2020",
+      "description": "Description",
+      "client": "Personal Project",
+      "category": "Custom Made, Game",
+      "images": [
+        "assets/img/portfolio/A/ChessSet/ChessSet1.jpg",
+        "assets/img/portfolio/A/ChessSet/ChessSet2.jpg"
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Classic Barstool",
+      "date": "July 2019",
+      "description": "With this project I ventured into the art of constructing a classic barstool. Construction of this piece posed its challenges, especially in crafting the four 1.5-inch by 1.5-inch legs, each set at a compound angle of 7 degrees in both directions.\n                                Navigating the compound angles required precision on the table saw, tilting the blade while maintaining a specific angle with a miter gauge. Drilling holes for the pegs proved equally intricate, demanding a 7-degree tilt on the drill press table. With careful measurements, I drilled one hole 10 inches from the top and bottom and another 9 inches away, ensuring accuracy for the pegs.\n                                Dry fitting the pegs into each leg on a flat table served as a visual check, confirming the accuracy of my cutting and drilling operations. Once satisfied with the dry fit, I proceeded to assemble the legs, using a makeshift mold on my workbench to ensure consistent spacing and angles. The 13-inch bottom span of the legs was carefully achieved to maintain uniformity.\n                                Chamfering the corners added a finishing touch, with the outer corners receiving a larger chamfer for aesthetic appeal. The pegs were then glued in, and the legs were assembled to eliminate any wobble. Crafting the 1.5-inch thick stool top involved using a circle jig on the table saw, transforming a square piece into a rounded seat. A rounded edge was added for comfort on the router table.\n                                Securing the legs to the seat, sanding ensued before staining the entire barstool. To prevent scratching on wood floors, I dipped the stool feet in Plasti-dip, creating a rubber coating. A final touch involved adding a comfortable pad to enhance the stool's comfort.\n                                A special thanks to Steve Ramsey of Woodworking for Mere Mortals for his detailed guidance in this project. You can find the tutorial here, a testament to his commitment to sharing woodworking expertise with enthusiasts like myself.",
+      "client": "Personal Project",
+      "category": "Furniture",
+      "images": [
+        "assets/img/portfolio/A/Barstool/Barstool1.jpg",
+        "assets/img/portfolio/A/Barstool/Barstool2.jpg"
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Folding Campfire Seat",
+      "date": "July 2019",
+      "description": "Inspired by the teachings of Steve Ramsey on his YouTube channel \"Woodworking for Mere Mortals,\" I embarked on my woodworking journey. Among his many projects that captured my attention, one was the Folding Campfire Seat.\n                                Using freely provided plans and measurements, I printed out the necessary blueprints, ready to transform pine and cedar wood into a compact camping seat The project, outlined in detail in Steve Ramsey's video here, proved both accessible and exciting, perfectly aligned with the tools at my disposal.\n                                Executing precise cuts with the table and miter saw, I shaped the boards to fit the project's specifications. The clever folding mechanism, a hallmark of this design, demanded accuracy in creating dowel holes. Leveraging my drill press, I ensured the dowels were set in the correct place, facilitating the seat's collapsible nature.\n                                The finishing touches involved sanding and applying a protective layer of boiled linseed oil, not only safeguarding the wood but also accentuating the natural beauty of the grain.\n                                The result was a folding campfire seat, ready for adventures and camping excursions. Its portability and flat-folding design made it an ideal companion around the campfire. As I reflect on this project, I extend a special thanks to Steve Ramsey for his years of dedication to sharing woodworking wisdom.",
+      "client": "Personal Project",
+      "category": "Furniture",
+      "images": [
+        "assets/img/portfolio/A/CampfireSeat/Campfire1.jpg",
+        "assets/img/portfolio/A/CampfireSeat/Campfire2.jpg"
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Quarto Board Game",
+      "date": "December 2019",
+      "description": "Description",
+      "client": "Personal Project",
+      "category": "Game",
+      "images": [
+        "assets/img/portfolio/A/Quarto/Quarto1.jpg",
+        "assets/img/portfolio/A/Quarto/Quarto2.jpg"
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Laser Engraved Step Stool",
+      "date": "November 2019",
+      "description": "Description",
+      "client": "High School Woodshop Class Project",
+      "category": "Furniture",
+      "images": [
+        "assets/img/portfolio/A/LaserStool/LaserStool1.jpg",
+        "assets/img/portfolio/A/LaserStool/LaserStool2.jpg"
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Sliding Lid Boxes",
+      "date": "2018, 2020",
+      "description": "Description",
+      "client": "High School Woodshop Project",
+      "category": "Storage Solutions",
+      "images": [
+        "assets/img/portfolio/A/SlidingLidBoxes/Slide1.jpg",
+        "assets/img/portfolio/A/SlidingLidBoxes/Slide2.jpg"
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Laser Engraved Cherry and Maple Cheeseboard",
+      "date": "March 2018",
+      "description": "Description",
+      "client": "High School Woodshop Class Project",
+      "category": "Decor",
+      "images": [
+        "assets/img/portfolio/A/EngravedCheesboard/CherryBoard1.jpg",
+        "assets/img/portfolio/A/EngravedCheesboard/CherryBoard2.jpg"
+      ]
+    },
+    {
+      "id": 29,
+      "title": "Air Powered Steam Engine",
+      "date": "May 2019",
+      "description": "Description",
+      "client": "High School Engineering Shop Project",
+      "category": "Shop Project",
+      "images": [
+        "assets/img/portfolio/A/SteamEngine/Steam1.jpg",
+        "assets/img/portfolio/A/SteamEngine/Steam2.jpg"
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Fireplace Mantle",
+      "date": "January 2020",
+      "description": "Description",
+      "client": "The Rucinski Family",
+      "category": "Decor",
+      "images": [
+        "assets/img/portfolio/A/FireplaceMantle/Mantle.jpg"
+      ]
+    },
+    {
+      "id": 31,
+      "title": "Mahogany and Oak Toothbrush Holder",
+      "date": "April 2020",
+      "description": "Description",
+      "client": "Personal Project",
+      "category": "Hygiene, Storage Solutions",
+      "images": [
+        "assets/img/portfolio/A/ToothbrushHolder/Tooth1.jpg",
+        "assets/img/portfolio/A/ToothbrushHolder/Tooth2.jpg"
+      ]
+    },
+    {
+      "id": 32,
+      "title": "Laser Engraved Mahogany Sports Wall Plaque",
+      "date": "June 2022",
+      "description": "Description",
+      "client": "Brendan Martino",
+      "category": "Decor",
+      "images": [
+        "assets/img/portfolio/A/PackersPlaque/CoverPhoto.jpg",
+        "assets/img/portfolio/A/PackersPlaque/Packers2.jpg",
+        "assets/img/portfolio/A/PackersPlaque/Packers3.jpg",
+        "assets/img/portfolio/A/PackersPlaque/Packers4.jpg",
+        "assets/img/portfolio/A/PackersPlaque/Packers5.jpg",
+        "assets/img/portfolio/A/PackersPlaque/Packers6.jpg",
+        "assets/img/portfolio/A/PackersPlaque/Packers7.jpg",
+        "assets/img/portfolio/A/PackersPlaque/Packers8.jpg"
+      ]
+    },
+    {
+      "id": 33,
+      "title": "Wooden Thor's Hammer Replica",
+      "date": "December 2019",
+      "description": "Description",
+      "client": "Personal Project",
+      "category": "Real-Life Replica",
+      "images": [
+        "assets/img/portfolio/A/ThorHammer/Thor1.jpg",
+        "assets/img/portfolio/A/ThorHammer/Thor2.jpg"
+      ]
+    },
+    {
+      "id": 34,
+      "title": "Wooden Luke Skywalker Lightsaber Replica",
+      "date": "July 2019",
+      "description": "Description",
+      "client": "Personal Project",
+      "category": "Real-Life Replica",
+      "images": [
+        "assets/img/portfolio/A/LukeWood/Luke1.jpg",
+        "assets/img/portfolio/A/LukeWood/Luke2.jpg"
+      ]
+    },
+    {
+      "id": 35,
+      "title": "3D Printed Han Solo Blaster Replica",
+      "date": "July 2020",
+      "description": "Description",
+      "client": "Personal Project",
+      "category": "Real-Life Replica",
+      "images": [
+        "assets/img/portfolio/A/HanSolo/Han1.jpg",
+        "assets/img/portfolio/A/HanSolo/Han2.jpg"
+      ]
+    },
+    {
+      "id": 36,
+      "title": "Metal Engineering Hammers",
+      "date": "November 2018, March 2019",
+      "description": "Description",
+      "client": "High School Metal Shop Project",
+      "category": "Shop Project",
+      "images": [
+        "assets/img/portfolio/A/MetalHammers/MetalHammers1.jpg",
+        "assets/img/portfolio/A/MetalHammers/MetalHammers2.jpg"
+      ]
+    },
+    {
+      "id": 37,
+      "title": "Sheet Metal Boxes",
+      "date": "October 2018",
+      "description": "Description",
+      "client": "High School Metalshop Project",
+      "category": "Storage Solutions",
+      "images": [
+        "assets/img/portfolio/A/SheetMetalBoxes/SheetMetal1.jpg",
+        "assets/img/portfolio/A/SheetMetalBoxes/SheetMetal2.jpg"
+      ]
+    },
+    {
+      "id": 38,
+      "title": "Mahogany Carpenter's Mallet",
+      "date": "January 2020",
+      "description": "Description",
+      "client": "Personal Project",
+      "category": "Shop Project",
+      "images": [
+        "assets/img/portfolio/A/MahoganyMallet/Mallet1.jpg",
+        "assets/img/portfolio/A/MahoganyMallet/Mallet2.jpg"
+      ]
+    },
+    {
+      "id": 39,
+      "title": "Autographed Jersey Case",
+      "date": "September 2017",
+      "description": "description",
+      "client": "Personal Project",
+      "category": "Decor",
+      "images": [
+        "assets/img/portfolio/A/NewtonJersey/Jersey1.jpg",
+        "assets/img/portfolio/A/NewtonJersey/Jersey2.jpg"
+      ]
+    },
+    {
+      "id": 40,
+      "title": "Melamine Storage Chest",
+      "date": "April 2016",
+      "description": "Description",
+      "client": "Personal Projects",
+      "category": "Storage Solutions",
+      "images": [
+        "assets/img/portfolio/A/MelamineChest/Chest1.jpg",
+        "assets/img/portfolio/A/MelamineChest/Chest2.jpg"
+      ]
+    },
+    {
+      "id": 41,
+      "title": "Window and Screen Storage Organizer",
+      "date": "June 2020",
+      "description": "Description",
+      "client": "Martino Family",
+      "category": "Storage Solutions",
+      "images": [
+        "assets/img/portfolio/A/WindowOrganizer/Window1.jpg",
+        "assets/img/portfolio/A/WindowOrganizer/Window2.jpg"
+      ]
+    },
+    {
+      "id": 42,
+      "title": "Custom Built 3D Printer Enclosure",
+      "date": "July 2020",
+      "description": "Description",
+      "client": "Personal Project",
+      "category": "Shop Project",
+      "images": [
+        "assets/img/portfolio/A/CustomEnclosure/Enclosure1.jpg",
+        "assets/img/portfolio/A/CustomEnclosure/Enclosure2.jpg"
+      ]
+    },
+    {
+      "id": 43,
+      "title": "3D Printed Stormtrooper Helmet Replica",
+      "date": "In Progress",
+      "description": "Description",
+      "client": "Personal Project",
+      "category": "Real-Life Replica",
+      "images": [
+        "assets/img/portfolio/A/Stormtrooper/Stormtrooper1.jpg",
+        "assets/img/portfolio/A/Stormtrooper/Stormtrooper2.jpg"
+      ]
+    },
+    {
+      "id": 44,
+      "title": "Four Player Chess Board",
+      "date": "In Progress",
+      "description": "Description",
+      "client": "Martino Family",
+      "category": "Game",
+      "images": [
+        "assets/img/portfolio/A/FourPlayerChessBoard/ChessBoard1.jpg",
+        "assets/img/portfolio/A/FourPlayerChessBoard/ChessBoard2.jpg"
+      ]
+    },
+    {
+      "id": 45,
+      "title": "Epoxy and Wood Chess Boards",
+      "date": "In Progress",
+      "description": "Description",
+      "client": "Personal Project",
+      "category": "Game",
+      "images": [
+        "assets/img/portfolio/A/EpoxyChessBoard/EpoxyChess1.jpg",
+        "assets/img/portfolio/A/EpoxyChessBoard/EpoxyChess2.jpg"
+      ]
+    }
+  ]
+}
