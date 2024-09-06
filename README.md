@@ -10,6 +10,7 @@ Hey Stephen! This README will guide you through setting up your development envi
 
 2. Clone the Repository: (you've already done this)
    - Enter the project directory: `cd stephenmartino.github.io`
+   - Switch the primary branch from master to main (ask GPT), rename master to "legacy"
 
 3. Install Dependencies:
    - In the project directory, run: `npm install`
